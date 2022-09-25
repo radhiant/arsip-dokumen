@@ -1,0 +1,45 @@
+body{
+	font-family: arial;
+}
+
+table{
+		border-collapse: collapse;
+		width: 100%;
+		
+		
+	}
+	th{
+		background-color:#4CAF50;
+		height: 50px;
+		text-align: left;
+		color: white;
+		
+
+	}
+
+	th, td{
+		padding: 8px;
+		
+	}
+
+	td{
+		border-left: 1px solid #ddd;
+	}
+
+	.td{
+		border:0;
+	}
+	tr:nth-child(even){
+		background-color: #f2f2f2;
+	}
+
+	.text{
+		font-size: 10px;
+	}
+
+	.judul{
+		font-size: 20px;
+	}
+	.jumlah{
+		font-size: 15px;
+	}
