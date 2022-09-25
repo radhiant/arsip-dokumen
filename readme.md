@@ -1,4 +1,4 @@
-![Uploading 4vLzfNbBK1wLxNYMB7yJjQvw3wBzPr4ewHbLnoEe.jpg…]()
+![4vLzfNbBK1wLxNYMB7yJjQvw3wBzPr4ewHbLnoEe](https://user-images.githubusercontent.com/47371845/192130203-e83a6224-60f3-4ead-a00d-7594cd6073cb.jpg)
 
 
 # Arsip Dokumen
